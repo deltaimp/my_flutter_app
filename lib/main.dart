@@ -6,9 +6,6 @@ void main() {
 
 }
 
-class Persona {
-  void descrivi() {
-    print("ciao");
-  }
+void descrivi(){ print("ciao alessandro");
 
 }
